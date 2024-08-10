@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python,Figma,Javascript**
 
-- 💬 Ask me about **C,C++,Sql,HTML,Css,BOOTSTRAP,FIGMA,PHOTOSHOP**
+- 💬 Ask me about **C, C++,SQL, HTML, CSS, BOOTSTRAP, FIGMA, PHOTOSHOP**
 
 - 📫 How to reach me **adarshsalgaonkaras@gmail.com**
 
