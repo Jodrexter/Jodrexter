@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Dogsite project.**
 
-- 🌱 I’m currently learning **Python,Figma,Javascript**
+- 🌱 I’m currently learning **React,Figma,Javascript**
 
-- 💬 Ask me about **C, C++,SQL, HTML, CSS, BOOTSTRAP, FIGMA, PHOTOSHOP**
+- 💬 Ask me about **C, C++,SQL, HTML, CSS, BOOTSTRAP, FIGMA, PHOTOSHOP,PYTHON**
 
 - 📫 How to reach me **adarshsalgaonkaras@gmail.com**
 
